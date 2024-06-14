@@ -4,7 +4,9 @@
 -
 - How do you manage new knowledge : write it in the journal and then move it in the correct place ? How? [[card]]
 - tags
+	- бля, а чо хэштэгов нет? они ссылаются на страницу?
 - links
 - pages
 - cards
 	- нахуя
+		- походу чтоб заучивать понятия и факты
