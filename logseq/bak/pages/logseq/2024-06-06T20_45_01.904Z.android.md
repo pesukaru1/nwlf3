@@ -1,0 +1,4 @@
+- https://dzen.ru/a/ZjhbMQ4VRhAn0Y-x
+- https://shady2k.ru/gaid-po-logseq/
+- https://kapi.bar/post/idealnyi-bloknok-rabota-v-logseq-chast-1
+-
