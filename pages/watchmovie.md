@@ -1,8 +1,9 @@
+- [one piece](https://rutube.ru/video/1bb85f864e9dc1def9fed219cd232873/?playlist=320765&playlistPage=1)
 - новичок (с)
   на дне с
   тримей с
-  новый вишневый вкус с
-  манк
+- [новый вишневый вкус с](https://vishnevyy-vkus-hdrezka.net/56-dublyazh/1-season/2-episode)
+- манк
   власть пса
   брачная история
   круг
@@ -117,11 +118,10 @@
   договор молчания
   воздушный маршал
   убийство у моря
-  рептилии
+  
   
   [0:36](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=36s) Чёрный лебедь [1:30](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=90s) Остров проклятых [2:19](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=139s) Драйв [3:35](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=215s) Артист [4:41](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=281s) Древо жизни [5:49](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=349s) Корпорация «Святые моторы» [7:43](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=463s) Мастер [8:58](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=538s) Великая красота [10:10](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=610s) Она [11:12](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=672s) 12 лет рабства [12:21](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=741s) Бёрдмэн [13:44](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=824s) Левиафан [15:07](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=907s) Исчезнувшая
   
-  середина 90-х
   родословная (сер)
   забытые богом (сер)
   полуночная месса с
@@ -175,3 +175,5 @@
   эра выживания
   
   ичи киллер
+- [фаворитка](https://rutube.ru/video/be1cd897f0a10200dd2bd7f5fa90e8f5/)
+-
