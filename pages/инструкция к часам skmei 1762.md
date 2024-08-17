@@ -1,0 +1,2 @@
+- инструкция к часам
+- [https://www.fantastreet.com/blogs/watch-manuals-collection/skmei-1762-digital-watch-manual](https://www.fantastreet.com/blogs/watch-manuals-collection/skmei-1762-digital-watch-manual)
