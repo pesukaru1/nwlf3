@@ -5,6 +5,7 @@
 - How do you manage new knowledge : write it in the journal and then move it in the correct place ? How? [[card]]
 - tags
 	- бля, а чо хэштэгов нет? они ссылаются на страницу? [[card]]
+	  collapsed:: true
 		- да, хэштеги ссылаются на одноименную страницу
 	-
 - links
