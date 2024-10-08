@@ -1,6 +1,7 @@
 - https://dzen.ru/a/ZjhbMQ4VRhAn0Y-x
 - https://shady2k.ru/gaid-po-logseq/
 - https://kapi.bar/post/idealnyi-bloknok-rabota-v-logseq-chast-1
+- [Logseq: Tips & Tricks](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs)
 -
 - How do you manage new knowledge : write it in the journal and then move it in the correct place ? How? [[card]]
 - tags
@@ -23,4 +24,5 @@
   CLOCK: [2024-10-01 Tue 20:33:47]
   CLOCK: [2024-10-01 Tue 20:33:52]
   :END:
+- [queries](https://docs.logseq.com/#/page/63bc6201-53b1-47a4-834f-83934b69ad49)
 -
