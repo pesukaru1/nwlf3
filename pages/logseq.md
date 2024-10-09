@@ -3,6 +3,9 @@
 - https://kapi.bar/post/idealnyi-bloknok-rabota-v-logseq-chast-1
 - [Logseq: Tips & Tricks](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs)
 -
+- можно ли встроить страницу? как? [[card]]
+	-
+-
 - How do you manage new knowledge : write it in the journal and then move it in the correct place ? How? [[card]]
 - tags
 	- бля, а чо хэштэгов нет? они ссылаются на страницу? [[card]]
