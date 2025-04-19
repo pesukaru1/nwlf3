@@ -1,2 +1,3 @@
 - [Руководство пользователя macOS Monterey](https://support.apple.com/ru-ru/guide/mac-help/welcome/12.0/mac/12.0)
--
+- как сделать возможность превью (через пробел) для маркдаун файлов? [[card]]
+	-
