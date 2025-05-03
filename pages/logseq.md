@@ -2,6 +2,7 @@
 - https://shady2k.ru/gaid-po-logseq/
 - https://kapi.bar/post/idealnyi-bloknok-rabota-v-logseq-chast-1
 - [Logseq: Tips & Tricks](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs)
+- [50 logseq tips in 6mins](https://youtu.be/r_tcDooayOo?si=OaEe9FFKzHG5O8k8)
 -
 - можно ли встроить страницу? как? [[card]]
 	-
