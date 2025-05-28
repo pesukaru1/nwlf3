@@ -4,6 +4,10 @@
 - [Logseq: Tips & Tricks](https://unofficial-logseq-docs.gitbook.io/unofficial-logseq-docs)
 - [50 logseq tips in 6mins](https://youtu.be/r_tcDooayOo?si=OaEe9FFKzHG5O8k8)
 -
+- [онлайн генератор запросов querries](https://adxsoft.github.io/logseqadvancedquerybuilder/)
+-
+- [неофициальная документация логсек](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/Logseq%20-%20Unofficial%20Documentation)
+-
 - можно ли встроить страницу? как? [[card]]
 	-
 -
@@ -19,6 +23,7 @@
 	- нахуя
 		- походу чтоб заучивать понятия и факты
 - можно ли делать чеклисты ?
+  collapsed:: true
 	- ((61d17d2b-b346-4bf7-bdb8-fe48c49f0c1e))[[card]]
 	-
 - NOW разберись с datalog и с query
