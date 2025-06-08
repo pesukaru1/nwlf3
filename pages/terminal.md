@@ -5,5 +5,5 @@ alias:: bash
 	- alias alias_name="command_to_run"
 	- [how to create bash aliases](https://linuxize.com/post/how-to-create-bash-aliases/)
 - как в куче текстовых файлов найти и заменить одно буквосочетание на другое? (например "трасник" на "тростник")
-- какого хера эта страница не обновляется на гитхабе!?
--
+	- [[замена в файлах подсказанная дипсиком]]
+	-
