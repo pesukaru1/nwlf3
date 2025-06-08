@@ -1,0 +1,2 @@
+- [Пособие для начинающих](https://caves-roguelike.fandom.com/ru/wiki/Пособие_для_начинающих)
+-

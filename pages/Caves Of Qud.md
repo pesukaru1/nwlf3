@@ -1,2 +1,7 @@
 - {{embed ((68444308-926a-451a-af44-8bdd61e83e66))}}
+- [**qudzoo** хороший ресурс по игре](https://www.qudzoo.com/)
+- [Советы и рекомендации для начинающих в пещерах Куд Rutab.net](https://rutab.net/b/games/2024/07/15/sovety-i-rekomendacii-dlya-nachinayuschih-v-pescherah-kud.html)
+- [Simple Qud Survival Guide](https://falsekin.notion.site/Introduction-14e281143cfc817db45af00c7d0eb38b)
+- [mutations and cybernetics ](https://falsekin.notion.site/Suggestions-14f281143cfc80f0acebd0f29687161b)
+- [руководства по Caves of Qud на стиме](https://steamcommunity.com/app/333640/guides/?l=russian)
 -
