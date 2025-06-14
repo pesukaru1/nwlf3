@@ -1,9 +1,11 @@
 type:: #книга
+book-type::
+genre::
 tytle:: 
 author:: 
 status:: 
 source:: 
-rating:: 
+rating:: /10 
 template:: template_book
 ---
 
