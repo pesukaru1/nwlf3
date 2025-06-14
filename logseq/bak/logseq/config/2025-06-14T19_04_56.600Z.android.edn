@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["now" "купить" "анонимные наркоманы" "анализ бюджета" "later"]
+ :favorites ["купить" "анонимные наркоманы" "анализ бюджета" "LATER"]
 
  ;; Set flashcards interval.
  ;; Expected value:
