@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["купить" "анонимные наркоманы" "анализ бюджета" "LATER"]
+ :favorites ["купить" "анализ бюджета" "анонимные наркоманы" "now" "later"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,5 +419,8 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? true}
+ :graph/settings {:journal? true
+ :orphan-pages? true
+ :excluded-pages? true
+ :builtin-pages? true}
  :editor/logical-outdenting? true}
