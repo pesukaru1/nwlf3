@@ -37,4 +37,6 @@ template:: template_book
   * [ ] выпей таблетку тербинафина
   * [ ] намажь ноги тербинафином
 -
+- template:: definition
+  type:: #definition, #определение
 -
