@@ -1,6 +1,7 @@
 type:: #книга
 book-type::
 genre::
+theme::
 tytle:: 
 author:: 
 status:: 
