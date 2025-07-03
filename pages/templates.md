@@ -5,7 +5,8 @@ theme::
 tytle:: 
 author:: 
 status:: 
-source:: 
+source::
+owner::
 rating:: /10 
 template:: template_book
 ---
