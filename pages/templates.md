@@ -7,7 +7,8 @@ author::
 status:: 
 source::
 owner::
-rating:: /10 
+rating:: /10
+progress:: 
 template:: template_book
 ---
 
