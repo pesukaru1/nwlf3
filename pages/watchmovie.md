@@ -61,7 +61,7 @@ alias::  посмотреть
 - [бракованная партия](https://kadikama.com/8542-2021-zvezdnye-vojny-brakovannaja-partija.html)
 - [возьми мой кексик](https://kadikama.com/9545-2021-take-my-muffin.html)
 - [ок ко](https://kadikama.com/8388-2017-okej-kej-o-budem-gerojami.html)
-- Бегущий по лезвию: Блэкаут 2022
+-
 -
 -
 -
