@@ -6,6 +6,7 @@ alias::  посмотреть
 - сказ о четырех с половиной татами
 - союз серокрылых
 -
+- ## Анимация
 - [мечты робота](https://kadikama.com/10224-2023-mechty-robota.html)
 - [царь обезьян](https://kadikama.com/10055-2023-car-obezjan.html)
 - [прощай монстр](https://kadikama.com/10046-2022-proschaj-monstr.html)
@@ -61,6 +62,7 @@ alias::  посмотреть
 - [бракованная партия](https://kadikama.com/8542-2021-zvezdnye-vojny-brakovannaja-partija.html)
 - [возьми мой кексик](https://kadikama.com/9545-2021-take-my-muffin.html)
 - [ок ко](https://kadikama.com/8388-2017-okej-kej-o-budem-gerojami.html)
+- [икар](https://kadikama.com/9815-2022-ikar.html)
 -
 -
 -
@@ -191,8 +193,9 @@ alias::  посмотреть
   
   
   [0:36](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=36s) Чёрный лебедь [1:30](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=90s) Остров проклятых [2:19](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=139s) Драйв [3:35](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=215s) Артист [4:41](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=281s) Древо жизни [5:49](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=349s) Корпорация «Святые моторы» [7:43](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=463s) Мастер [8:58](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=538s) Великая красота [10:10](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=610s) Она [11:12](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=672s) 12 лет рабства [12:21](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=741s) Бёрдмэн [13:44](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=824s) Левиафан [15:07](https://www.youtube.com/watch?v=7X4HlvF8UUs&t=907s) Исчезнувшая
-  
-  родословная (сер)
+-
+- ## Сериалы
+- родословная (сер)
   забытые богом (сер)
   полуночная месса с
   олененок с
@@ -207,7 +210,7 @@ alias::  посмотреть
   они с
   кровавая езда с
   шугар с
-  связи нет
+- связи нет
   уцелевший
   август
   бьютифул
