@@ -26,11 +26,11 @@
   collapsed:: true
 	- ((61d17d2b-b346-4bf7-bdb8-fe48c49f0c1e))[[card]]
 	-
-- NOW разберись с datalog и с query
+- LATER разберись с datalog и с query
   :LOGBOOK:
   CLOCK: [2024-10-01 Tue 20:33:44]
   CLOCK: [2024-10-01 Tue 20:33:47]
-  CLOCK: [2024-10-01 Tue 20:33:52]
+  CLOCK: [2024-10-01 Tue 20:33:52]--[2025-09-20 Sat 15:20:03] =>  8490:46:11
   :END:
 - [queries](https://docs.logseq.com/#/page/63bc6201-53b1-47a4-834f-83934b69ad49)
 -
