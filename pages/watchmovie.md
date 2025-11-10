@@ -28,6 +28,8 @@ alias::  посмотреть
 - [второй лучший госпиталь в галактике](https://sv.lordfilm17.ru/mult/50346-vtoroj-luchshij-gospital-v-galaktike-2024.html)
 - [дисней 100 лет. однажды в студии](https://sv.lordfilm17.ru/mult/49856-odnazhdy-v-studii-2023.html)
 - [крейг из царства ручья](https://sv.lordfilm17.ru/mult/49861-krjejg-iz-carstva-ruchja-2023.html)
+- [скотт пилигрим жмет на газ](https://sv.lordfilm17.ru/mult/49598-skott-piligrim-zhmet-na-gaz-2023.html)
+- [крапополис](https://sv.lordfilm17.ru/mult/49354-krapopolis-2023.html)
 - [царь обезьян](https://kadikama.com/10055-2023-car-obezjan.html)
 - [прощай монстр](https://kadikama.com/10046-2022-proschaj-monstr.html)
 - [хрюк](https://kadikama.com/9992-2022-knor.html)
