@@ -31,6 +31,8 @@ alias::  посмотреть
 - [скотт пилигрим жмет на газ](https://sv.lordfilm17.ru/mult/49598-skott-piligrim-zhmet-na-gaz-2023.html)
 - [крапополис](https://sv.lordfilm17.ru/mult/49354-krapopolis-2023.html)
 - [капитан фолл](https://sv.lordfilm17.ru/mult/48917-kapitan-foll-2023.html)
+- [маллиган](https://sv.lordfilm17.ru/mult/48642-malligan-2023.html)
+- [руби гилман](https://sv.lordfilm17.ru/mult/48139-rubi-gillman-2023.html)
 - [царь обезьян](https://kadikama.com/10055-2023-car-obezjan.html)
 - [прощай монстр](https://kadikama.com/10046-2022-proschaj-monstr.html)
 - [хрюк](https://kadikama.com/9992-2022-knor.html)
