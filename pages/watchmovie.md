@@ -22,6 +22,10 @@ alias::  посмотреть
 - [убивая скуку](https://sv.lordfilm17.ru/mult/51269-ubivaja-skuku-2024.html)
 - [взрывные котята](https://sv.lordfilm17.ru/mult/51186-vzryvnye-kotjata-2024.html)
 - [сирокко из страны ветров](https://sv.lordfilm17.ru/mult/51005-sirokko-iz-strany-vetrov-2023.html)
+- [хвала пити](https://sv.lordfilm17.ru/mult/50506-hvala-piti-2023.html)
+- [люди икс 97](https://sv.lordfilm17.ru/mult/50502-ljudi-iks-97-2024.html)
+- [лазурные сказания](https://sv.lordfilm17.ru/mult/50371-lazurnye-skazanija-2023.html)
+-
 - [царь обезьян](https://kadikama.com/10055-2023-car-obezjan.html)
 - [прощай монстр](https://kadikama.com/10046-2022-proschaj-monstr.html)
 - [хрюк](https://kadikama.com/9992-2022-knor.html)
