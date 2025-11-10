@@ -8,6 +8,10 @@ alias::  посмотреть
 -
 - ## Анимация
 - [мечты робота](https://kadikama.com/10224-2023-mechty-robota.html)
+- [стерилизован](https://sv.lordfilm17.ru/mult/53683-sterilizovan-2025.html)
+- [сплинтер селл](https://sv.lordfilm17.ru/mult/54507-splinter-cell-karaul-smerti-2025.html)
+- [свинтусы](https://sv.lordfilm17.ru/mult/54550-svintusy-2025.html)
+- [отель с привидениями](https://sv.lordfilm17.ru/mult/53856-otel-s-prividenijami-2025.html)
 - [царь обезьян](https://kadikama.com/10055-2023-car-obezjan.html)
 - [прощай монстр](https://kadikama.com/10046-2022-proschaj-monstr.html)
 - [хрюк](https://kadikama.com/9992-2022-knor.html)
