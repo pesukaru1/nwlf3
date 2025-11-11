@@ -2,6 +2,8 @@
 - [leetcode](https://leetcode.com/problemset/javascript/)
 - [hackerrank](https://leetcode.com/problemset/javascript/)
 - [w3](https://www.w3resource.com/javascript-exercises/)
+- [задачи по тайпскрипту в виде игры](https://checkio.org/)
+- [проект эйлера. математические задачи по программированию](https://projecteuler.net/index.php?section=problems)
 -
 -
 -
