@@ -1,5 +1,6 @@
 - [code.mu](https://code.mu/ru/javascript/tasker/stager/)
 - [leetcode](https://leetcode.com/problemset/javascript/)
 - [hackerrank](https://leetcode.com/problemset/javascript/)
+- [w3](https://www.w3resource.com/javascript-exercises/)
 -
 -
