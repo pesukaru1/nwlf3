@@ -1,2 +1,4 @@
 - [code.mu](https://code.mu/ru/javascript/tasker/stager/)
 - [leetcode](https://leetcode.com/problemset/javascript/)
+- [hackerrank](https://www.hackerrank.com/dashboard)
+-
