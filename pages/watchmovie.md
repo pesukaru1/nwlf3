@@ -49,7 +49,7 @@ alias::  посмотреть
 - [хильда и горный король](https://kadikama.com/8911-2021-hilda-i-gornyj-korol.html)
 - [ништяк браток](https://kadikama.com/8909-2020-nishtjak-bratok.html)
 - [америка](https://kadikama.com/8898-2021-amerika-film.html)
-- [вся правда о медведях](https://kadikama.com/2765-2017-zombillenium.html)
+- [вся правда о медведях](https://kadikama.com/8657-2020-vsja-pravda-o-medvedjah-film.html)
 - [дахуфа](https://kadikama.com/2767-2017-da-hufa.html)
 - [бунюэль в лабиринте черепах](https://kadikama.com/8044-2018-bunjujel-v-labirinte-cherepah.html)
 - [пережить свою жизнь (шванкмайер)](https://kadikama.com/1918-2010-perezhit-svoyu-zhizn.html)
