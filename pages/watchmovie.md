@@ -78,6 +78,7 @@ alias::  посмотреть
 - [чисто английский](https://kadikama.com/3804-2012-chisto-angliyskiy.html)
 - [храбрейшие войны](https://kadikama.com/498-2012-hrabreyshie-voiny.html)
 - [Зомби-апокалипсис и список из 100 дел, что я выполню перед смертью](https://kadikama.com/10173-2023-zombi-apokalipsis-i-spisok-iz-100-del-chto-ja-vypolnju-pered-smertju.html)
+- [мальчик и мир](https://kadikama.com/8205-2013-malchik-i-mir.html)
 - добытчица
 - иллюзионист
 - подделка
