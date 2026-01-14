@@ -424,4 +424,4 @@
  :excluded-pages? true
  :builtin-pages? true}
  :editor/logical-outdenting? true
- :ui/show-brackets? true}
+ :ui/show-brackets? false}
